@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning AI Platform dev & MLOps. 
+📫 My blog: https://velog.io/@yoorachoi
