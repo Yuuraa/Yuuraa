@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning AI Platform dev & MLOps. 
 📫 My blog: https://velog.io/@yoorachoi
+📫 Github blog: https://yuuraa.github.io
