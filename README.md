@@ -15,6 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning AI Platform dev & MLOps. 
-📫 My blog: https://velog.io/@yoorachoi
-📫 Github blog: https://yuuraa.github.io
+🍀 Current interests:
+   - MLOps
+   - Federated learning
+   - Generative Models! especially Conditional GAN
+
+
+🔥 Currently in BoostCamp AI Tech course
+
+
+💻 Languages & Techs: 
+  - 😊: Python3, PyTorch, Docker, Figma
+  - 😉: C++, JavaScript, Vue.js, K8s, Ansible
+  - 🤔: Java
+
+
+📫 My blog: 
+  - Velog: https://velog.io/@yoorachoi
+  - Github blog: https://yuuraa.github.io
+
