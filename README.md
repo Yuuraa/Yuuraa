@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### 🍀 Current interest:
    - MLOps
+   - Dialogue State Tracking ! << `new`
    - Federated learning
    - Generative Models! especially Conditional GAN
 
