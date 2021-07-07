@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 ### 📫 My blog: 
   - Velog: https://velog.io/@yoorachoi
-  - Github blog: https://yuuraa.github.io
 
 ### 💟 My dog:
 <img src="https://user-images.githubusercontent.com/48202492/120313705-56079880-c315-11eb-9891-2ea7ea6aff10.jpeg" width="300" height="300" position="center"/>
