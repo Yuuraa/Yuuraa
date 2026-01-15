@@ -2,6 +2,6 @@
   
 * :computer: I'm a Ph.D. student @ Imperial College London (since May 2025).
   
-* :robot: My interest lies in building LMM assistants that can understand and interact with videos, like humans do.
+* :robot: My interest lies in building LMM assistants that can understand and interact through videos, like humans do.
   
 * 💜 For more details, visit [my homepage](https://yuuraa.github.io)
